@@ -1,3 +1,4 @@
-# JS-Prod-20-Template
+# Simple infinite scroll
 
-Main template base for simple projects
+the result can be viewed here:
+https://goofy-allen-d038c6.netlify.app/
